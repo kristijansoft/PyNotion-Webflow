@@ -23,13 +23,14 @@ PyNotion is currently in development and supports the following features:
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-# Installing PyNotion
+# Installing PyNotion-webflow
 
-You can install PyNotion using either [Poetry](https://python-poetry.org/) or [pip](https://pypi.org/project/pip/).
+
+You can install PyNotion-webflow using either [Poetry](https://python-poetry.org/) or [pip](https://pypi.org/project/pip/).
 
 ## Using Poetry
 
-To install PyNotion using Poetry, run the following command in your terminal:
+To install PyNotion-webflow using Poetry, run the following command in your terminal:
 
 ```bash
 poetry add pynotionclient
@@ -37,7 +38,7 @@ poetry add pynotionclient
 
 ## Using pip
 
-To install PyNotion using pip, run the following command in your terminal:
+To install PyNotion-webflow using pip, run the following command in your terminal:
 
 ```bash
 pip install pynotionclient
@@ -206,7 +207,7 @@ print(response.json())
 ```
 
 
-# PyNotion Development Setup
+# PyNotion-webflow Development Setup
 
 Follow these steps to set up your development environment for PyNotion:
 
